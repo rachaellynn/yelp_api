@@ -1,0 +1,1 @@
+Simple ruby script that uses the <a href="https://www.yelp.com/developers/">Yelp API</a> to pull data on (in this case) HVAC contractors in the Boston area. Can be easily modified for other locations and <a href="https://www.yelp.com/developers/documentation/v2/all_category_list">categories</a>.
